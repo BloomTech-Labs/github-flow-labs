@@ -48,4 +48,12 @@ The following is a list of steps and instructions on how to complete this guided
   - ![delete-pr](https://tk-assets.lambdaschool.com/b3f929ad-a295-4b70-81c3-3e28890188d5_ScreenShot2020-04-13at9.25.26AM.png)
 
 ### Your name
+<<<<<<< HEAD
 Damon Bogich
+=======
+
+- Parth Shah
+- Kim Semenza
+- Lisa Cook
+
+>>>>>>> 94825abc89e3c134729b47a2a85b2c1a3a00db96
