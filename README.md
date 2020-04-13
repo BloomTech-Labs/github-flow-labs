@@ -50,3 +50,6 @@ The following is a list of steps and instructions on how to complete this guided
 ### Your name
 
 - Stephen Saciolo
+- Parth Shah
+- Kim Semenza
+- Lisa Cook
