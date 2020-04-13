@@ -49,4 +49,11 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Your name
 
+<<<<<<< HEAD
 - Jojo Zhang
+=======
+- Parth Shah
+- Kim Semenza
+- Lisa Cook
+
+>>>>>>> 94825abc89e3c134729b47a2a85b2c1a3a00db96
