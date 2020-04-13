@@ -18,6 +18,7 @@
   - You will be able to _merge_ the **master** branch onto your feature branch.
   - You will be able to resolve any _merge conflicts_ that come up.
   - You will be able to delete a feature branch.
+  - You will be able to get schwifty.
 
 ## Introduction
 
@@ -48,3 +49,4 @@ The following is a list of steps and instructions on how to complete this guided
   - ![delete-pr](https://tk-assets.lambdaschool.com/b3f929ad-a295-4b70-81c3-3e28890188d5_ScreenShot2020-04-13at9.25.26AM.png)
 
 ### Your name
+- Tyler de Friess
