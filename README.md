@@ -49,3 +49,8 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Your name
 - Rachel Carter
+
+- Parth Shah
+- Kim Semenza
+- Lisa Cook
+
