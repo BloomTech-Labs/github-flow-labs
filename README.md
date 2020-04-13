@@ -49,4 +49,7 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Your Name
 
-Amber Mohler
+- Amber Mohler
+- Parth Shah
+- Kim Semenza
+- Lisa Cook
